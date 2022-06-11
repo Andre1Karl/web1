@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Nuosu+SIL&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Nuosu+SIL&display=swap');
+body{
+	background:  url(https://hips.hearstapps.com/ghk.h-cdn.co/assets/18/01/1515005599-miniature-pinscher.jpg);
+	background-size: cover;
+}
+h5{
+	color: white;
+	font-family: 'Lato', sans-serif;
+	font-size: 70px;
+	padding-top: 40px;
+}
+#header{
+	padding: 35px 0 10px 100px;
+	background-color: rgba(0,0,0,0.3);
+}
+#menu li{
+	list-style-type: none;
+	display: inline;
+	padding: 0 22px 0 22px;
+}
+#menu li a{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	padding: 0 0 0 0;
+	font-family: 'Nuosu SIL', serif;
+}
+#icon a{
+	text-transform: uppercase;
+	text-decoration: none;
+	display: inline;
+	color: white;
+	font-size: 25px;
+	font-family: 'Nuosu SIL', serif;
+}
+#free-template{
+	font-family: 'Nuosu SIL', serif;
+	color: white;
+}
+#sub-text{
+	color: white;
+	font-size: 20px;
+}
+#services{
+	padding-top: 30px;	
+}
+#services a{
+    border: 1px solid #E4E4E4;
+    color: #979797;
+    background-color: #FFFFFF;
+    display: block;
+    padding: 160px 20px 20px 20px;
+}
+#services-s-1 a{
+	background-image: url("images/icon-1.png"); 
+	background-position: 20px 20px;
+}
+#services a.s-2{
+	background-image: url("images/icon-1.png"); 
+	background-position: 20px 20px;
+}
+#services a.s-3{
+	background-image: url("images/icon-1.png"); 
+	background-position: 20px 20px;
+}
+#services a.s-4{
+	background-image: url("images/icon-1.png"); 
+	background-position: 20px 20px;
+}
+#showcase h2 span {
+    padding: 5px 15px;
+}
+#showcase h2{
+	display: block;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 32px;
+    padding:  20px 0 30px 0;
+    color: white;
+	font-family: 'Nuosu SIL', serif;
+}
+#first-img{
+	padding: 10px 0 40px 0;
+}
+#image-down{
+	height: 190px;
+	width: 290px;
+	padding: 10px 0 40px 0;
+}
+#first-image img{
+	display: inline;
+	margin-left: 10px;
+}
+#second-image img{
+	display: inline;
+	margin-left: 10px;
+}
+#footer{
+	padding: 35px 0 100px 100px;
+	background-color: #303030;
+	color: #979797;
+	font-family: 'Nuosu SIL', serif;
+}
+#blog h2{
+	list-style-type: none;
+	display: inline;
+}
+#blog h2 a{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #76C38F;
+	font-size: 20px;
+}
+#quick-links li{
+	list-style-type: none;
+	display: block;
+	padding: 10px 0 10px 0;
+}
+#quick-links li a{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #76C38F;
+	padding: 0 0 0 0;
+}
+#submit{
+	border-radius: 25px;
+ 	background: #73AD21;
+ 	height: 50px;
+ 	width: 150px;
+}
+#about-is-img{
+	width: 215px;
+	height: 90px;
+}
+#email,#read-more{
+	text-decoration: none;
+	color: #76C38F;
+}
