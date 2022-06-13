@@ -11,7 +11,7 @@ h5{
 	padding-top: 40px;
 }
 #header{
-	padding: 35px 0 10px 100px;
+	padding: 35px 0 10px 0;
 	background-color: rgba(0,0,0,0.3);
 }
 #menu li{
@@ -128,7 +128,7 @@ h5{
 	margin-left: 10px;
 }
 #footer{
-	padding: 35px 0 100px 100px;
+	padding: 35px 0 100px 0;
 	background-color: #303030;
 	color: #979797;
 	font-family: 'Nuosu SIL', serif;
