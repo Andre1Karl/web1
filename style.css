@@ -25,6 +25,15 @@ h5{
 	color: white;
 	padding: 0 0 0 0;
 	font-family: 'Nuosu SIL', serif;
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
+#menu li a:hover{
+	background-color: white;
+	color: black;
 }
 #icon a{
 	text-transform: uppercase;
@@ -51,6 +60,14 @@ h5{
     background-color: #FFFFFF;
     display: block;
     padding: 160px 20px 20px 20px;
+    -webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
+#services a:hover{
+	margin-top: 20px;
 }
 #services-s-1 a{
 	background-image: url("images/icon-1.png"); 
@@ -89,6 +106,18 @@ h5{
 	height: 190px;
 	width: 290px;
 	padding: 10px 0 40px 0;
+    -webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
+#image-down:hover{
+	-moz-transform: scale(1.5) rotate(5deg) translateX(10px) translateY(10px);
+	-webkit-transform: scale(1.5) rotate(5deg) translateX(10px) translateY(10px);
+	-o-transform: scale(1.5) rotate(5deg) translateX(10px) translateY(10px);
+	-ms-transform: scale(1.5) rotate(5deg) translateX(10px) translateY(10px);
+	transform: scale(1.5) rotate(5deg) translateX(10px) translateY(10px);
 }
 #first-image img{
 	display: inline;
